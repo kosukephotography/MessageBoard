@@ -10,7 +10,7 @@
                     <ul class="navbar-nav mr-auto"></ul>
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a href="messages/create" class="nav-link">新規メッセージの投稿</a>
+                            <a href="/messages/create" class="nav-link">新規メッセージの投稿</a>
                         </li>
                     </ul>
                 </div>

@@ -10,6 +10,11 @@
                 @csrf
 
                 <div class="form-group">
+                    <label for="title">タイトル</label>
+                    <input type="text" name="title" id="title" class="form-control">
+                </div>
+
+                <div class="form-group">
                     <label for="content">メッセージ</label>
                     <input type="text" name="content" id="content" class="form-control">
                 </div>
