@@ -25,6 +25,8 @@
         </table>
     @endif
 
+    {{ $messages->links('pagination::bootstrap-4') }}
+
     <a href="messages/create" class="btn btn-primary">新規メッセージの投稿</a>
 
 @endsection
